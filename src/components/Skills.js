@@ -42,7 +42,7 @@ function Skills() {
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-900">
             <img className="w-20 mx-auto" src={gitHub} alt="html" />
-            <p className="py-4"> GitHub</p>
+            <p className="py-4"> Git</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-900">
             <img className="w-20 mx-auto" src={toolkit} alt="html" />

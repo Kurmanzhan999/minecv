@@ -82,7 +82,7 @@ function NavBar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="linkedin.com/in/курманжан-мухтарова-3a5b2022a"
+              href="https://www.linkedin.com/in/kurmanzhan-mukhtarova-3a5b2022a/"
             >
               LinkedIn <FaLinkedin size={30} />
             </a>
