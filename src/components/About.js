@@ -18,10 +18,12 @@ const About = () => {
           </div>
           <div>
             <p className="first-letter:text-5xl my-1px  ">
-              Creative Frontend Developer. Enjoing every step of working process, from discussion
-              and collaboration. Self motivated team player with excellent
-              interpersonal and communication skills, ability to learn , adapt
-              quickly to the emergining new technologies.             </p>
+              Self-motivated front-end developer with an ability to provide
+              creative solutions. I have serious passion in converting design
+              and ideas to UI and am capable of learning quickly, adapting to
+              new technologies. Passionate team player with strong interpersonal
+              and communication skills.
+            </p>
           </div>
         </div>
       </div>

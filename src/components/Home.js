@@ -8,7 +8,7 @@ function Home() {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-pink-600">Hi,my name is</p>
         <h1 className=" text-4xl font-bold text-[#ccc] sm:text-6xl ">
-          Kurmanzhan Mukhtarova
+          Kurmanzhan
         </h1>
         <h2 className=" text-4xl font-bold text-[#756c6c] ml-8 sm:text-3.5xl ">
           Frontend developer
