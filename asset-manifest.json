@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minecv/static/css/main.325c6f7c.css",
-    "main.js": "/minecv/static/js/main.c935cc4d.js",
+    "main.css": "/minecv/static/css/main.e68d4c4b.css",
+    "main.js": "/minecv/static/js/main.35010f85.js",
     "static/media/animationApp.png": "/minecv/static/media/animationApp.73af892349b7cb97bf9e.png",
     "static/media/gpt3.png": "/minecv/static/media/gpt3.97686c36fe49eada9a96.png",
     "static/media/resto.png": "/minecv/static/media/resto.b9d3ed6a99da6150a637.png",
@@ -19,11 +19,11 @@
     "static/media/react-router.svg": "/minecv/static/media/react-router.a87b722746890c8dcd6e20f04b6d53cd.svg",
     "static/media/jira-3.svg": "/minecv/static/media/jira-3.79401e798305efd2db7eaf75a868913b.svg",
     "index.html": "/minecv/index.html",
-    "main.325c6f7c.css.map": "/minecv/static/css/main.325c6f7c.css.map",
-    "main.c935cc4d.js.map": "/minecv/static/js/main.c935cc4d.js.map"
+    "main.e68d4c4b.css.map": "/minecv/static/css/main.e68d4c4b.css.map",
+    "main.35010f85.js.map": "/minecv/static/js/main.35010f85.js.map"
   },
   "entrypoints": [
-    "static/css/main.325c6f7c.css",
-    "static/js/main.c935cc4d.js"
+    "static/css/main.e68d4c4b.css",
+    "static/js/main.35010f85.js"
   ]
 }
