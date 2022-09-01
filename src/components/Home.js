@@ -16,13 +16,13 @@ function Home() {
 
         <p className="text-[#605555] py-5 sm:text-2xl max-w-[700px] "></p>
         <div>
-          <button className="text-white group border-2 px-6 py-3 my-6 flex items-center hover:bg-pink-600">
+          <button className=" transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-300  text-white group border-2 px-6 py-3 my-6 flex items-center hover:bg-pink-600">
             <Link to="projects" smooth={true} duration={500}>
               {' '}
               View works{' '}
             </Link>
             <span className="group-hover:rotate-90 duration-300">
-              <HiArrowNarrowRight className="ml-5 " />
+              <HiArrowNarrowRight className="ml-5 animate-bounce w-6 h-6 " />
             </span>
           </button>
         </div>
